@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "579201754260",
+    "firebase_url": "https://kodluyoruz-4.firebaseio.com",
+    "project_id": "kodluyoruz-4",
+    "storage_bucket": "kodluyoruz-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579201754260:android:dfd01373855d9fdb898081",
+        "android_client_info": {
+          "package_name": "com.bootcamp4hafta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579201754260-7jp81iqmfv00mqc30be13n34llk01hvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEUXrcmUptuNY_031Slss-aX3P2QMBxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579201754260-7jp81iqmfv00mqc30be13n34llk01hvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
